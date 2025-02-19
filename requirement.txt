@@ -1,0 +1,5 @@
+folium==0.19.4
+pandas==2.2.3
+streamlit==1.42.0
+streamlit_folium==0.24.0
+shapely==2.0.7
