@@ -48,7 +48,7 @@ for feature in geojson_data['features']:
 # Exemple d'utilisation
 code_departement = "49"
 nom_departement = code_to_name.get(code_departement, "Inconnu")
-print(f"Le département {code_departement} est {nom_departement}.")
+#print(f"Le département {code_departement} est {nom_departement}.")
 
 
 
